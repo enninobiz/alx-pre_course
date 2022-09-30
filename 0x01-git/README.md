@@ -1,1 +1,2 @@
-My second commit on git alx
+ALX is the best
+SOftware Engineer in progress
